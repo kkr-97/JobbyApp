@@ -1,0 +1,11 @@
+.similar-job-item {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  width: 350px;
+  margin: 20px 30px 0 0;
+  cursor: pointer;
+}
+.type-container {
+  margin-left: 16px;
+}

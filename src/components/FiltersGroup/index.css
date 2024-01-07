@@ -1,0 +1,18 @@
+.types-of-employment-container,
+.salary-filters-container {
+  padding: 0 13px 0 13px;
+}
+.filter-heading {
+  color: white;
+  font-size: 26px;
+}
+.employment-types-list-container,
+.salary-filters-list-container {
+  list-style-type: none;
+  padding: 0;
+}
+
+.types-list-element,
+.salary-list-element {
+  margin-bottom: 10px;
+}

@@ -1,0 +1,51 @@
+.job-item-container,
+.similar-job-item {
+  background-color: #272727;
+  padding: 20px;
+  border-radius: 20px;
+  color: #f8fafc;
+}
+.company-profile-container {
+  display: flex;
+}
+.company-logo {
+  height: 80px;
+}
+.role-rating-container {
+  margin-left: 25px;
+  padding: 0;
+}
+.role-name {
+  font-size: 26px;
+  margin: 0 0 8px 0;
+}
+.rating-container {
+  display: flex;
+  align-items: center;
+}
+.star {
+  color: #fbbf24;
+  margin-right: 6px;
+}
+.location-type-salary-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.location-type-container,
+.location-container,
+.type-container {
+  display: flex;
+  align-items: center;
+  margin-right: 16px;
+}
+.work-icon,
+.location-icon {
+  margin-right: 8px;
+}
+hr {
+  border: 0.5px solid #64748b;
+}
+.desc-heading {
+  font-size: 24px;
+}
